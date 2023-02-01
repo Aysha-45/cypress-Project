@@ -1,0 +1,59 @@
+SignUp Automation:
+    Automation to include:
+        ✔ Make the billing address same as Company address @done(21-02-03 21:23)
+        ☐ Maximum number of user enter in plan page
+        ✔ Complex tenant name signup @high @done(21-02-10 22:42)
+        ☐ Boundary value test  
+        ☐ Clean value test case (Script injection,special charecters,)
+        ☐ Account information form
+            ✔ Maximum value test all field @done(21-02-10 14:32)
+            ✔ Tenant name special charecter @done(21-02-10 22:42)
+            ✔ Tenant name start with number @done(21-02-10 22:43)
+            ☐ Negative value test all field
+            ☐ Special charecter
+            ☐ Script injection @later
+             
+    Script to edit:
+        ✔ Introduce and add test automation tags -> Smoke and Functional @done(21-02-08 00:42)
+        ✔ Focus get moved to other field while writting while editing account information @done(21-02-05 03:28)
+        ✔ Assertion on confrmation page -> expect not catching failure @done(21-02-03 03:23)
+
+
+    Notes:
+        Make visible any part of the sign up form
+            signUpPage.getConfirmForm().invoke('attr', 'aria-expanded', "true")
+            signUpPage.getConfirmForm().invoke('attr', 'style', 'visibility: visible')
+Integration functionality automation:
+    Automation to include:
+        ☐ Connect to cloud accounts
+        ☐ Send compose message via attaching files from integrated accounts and download those files
+        ☐ Upload files to my files from cloud integrated accounts and download those files
+        ☐ Upload and remove files from cloud accounts and check the sycn status on transit
+            
+SuperUserFunctionality:
+    Automation to include:
+        ✔ Modify the test spec according to our existing script in protractor @done(21-02-16 10:34)
+        ✔ Move the API related tasks in to seperate test file @done(21-02-16 10:34)
+        ✔ System activities export report @done(21-02-26 01:08)
+        ☐ Session time out change below 30 and test under general settings
+        ☐ Outlook addin configuration
+        ☐ Password policy
+        ☐ Tenant settings
+        ☐ Integration settings
+
+TenantManagerFunctionality:
+    Automation to include:
+        ✔ Shift all the test cases from existing project @done(21-03-02 15:39)
+        ✔ System activity export report @done(21-03-02 15:39)
+        ☐ System activity report check in my files
+        ☐ Email notification
+        ☐ General settings
+        ✔ Branding @done(21-03-02 15:48)
+        ☐ Password policy
+        ☐ Tenant settings
+        ☐ Integration settings
+
+
+    
+ComposeMessageFunctionality:
+    Automation:

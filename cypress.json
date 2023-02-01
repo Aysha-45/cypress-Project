@@ -1,0 +1,36 @@
+{
+    "watchForFileChanges": false,
+    "requestTimeout": 50000,
+    "projectId": "dnsg5h",
+    "chromeWebSecurity":false,
+    "defaultCommandTimeout":15000,
+    "video":false,
+    "pageLoadTimeout":120000,
+    "numTestsKeptInMemory":50,
+    "screenshotOnRunFailure":true,
+    "integrationFolder":"cypress/integration", 
+    "screenshotsFolder":"cypress/reports/mochareports/assets",
+
+    
+    
+    
+    "env": {
+        "MAILOSAUR_API_KEY": "IebEbnMtv5pTdPhr",
+        "mailosaureServerId":"wxcydow8",
+        "url": "http://192.168.10.247/transit/app/",
+        "liveUrl": "https://filetransit.io/transit/app/",
+        "sendQaSignUp":"https://sendqa.com/signup/",
+        "fileTransitSignup":"https://filetransit.io/signup",
+        "tenantName": "chrome696",
+        "liveTenant":"protractor",
+        "mailServerAddress":"192.168.10.91",
+        "mailServerPort":"143",
+        "emailCheckTimeout":120000,
+        "emailCheckInterval":5000,
+        "live":false
+    },
+
+
+  "reporter": "cypress-multi-reporters"
+
+}
