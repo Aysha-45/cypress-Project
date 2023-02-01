@@ -1,0 +1,187 @@
+{
+    "functional": {
+        "accountInformation": {
+            "email": "test@nilavo.com",
+            "password": "Nil@vo2006",
+            "firstName": "Asif",
+            "lastName": "Sarja",
+            "companyName": "Nilavo",
+            "companyAddress": "4th Floor, House 1005-1007, Avenue#11, Rd Number 9, Dhaka 1216",
+            "city": "Dhaka",
+            "state": "California",
+            "zipCode": "1216",
+            "phoneNumber": "+8801923124213",
+            "domainNameOld": "d8",
+            "emptyFieldAlertMessge": "This field is required",
+            "domainNameExistAlertMessage": "This domain name is not available",
+            "passwordInvalidMessage": "invalid.password",
+            "editedEmail": "sarja@nilavo.com",
+            "editedCompanyName": "Nilavo Technologies",
+            "editedCompanyAddress": "6th Floor, House 1005-1006, Avenue#11, Rd Number 11, Dhaka 1216",
+            "editedPhoneNumber": "+880192311111",
+            "editedState": "Arkansas",
+            "editedFirstName": "William",
+            "editedLastName": "Shakespear",
+            "domainNameNew": "mytenant",
+            "editedDomainNameNew": "ANewTenant27",
+            "editedDomainNameNewAssert":"anewtenant27"
+        },
+        "plan": {
+            "numberOfUser": "10",
+            "numberOfUserDefault": "3",
+            "numberOfUserHint": "Minimum users: 3",
+            "defaultPlan": "Monthly Plan",
+            "changedPlan": "Annual Plan",
+            "numberOfUsersInOrderDetails": "3",
+            "pricePerUserPerMonthOrderDetail": "12",
+            "priceTotal": "36",
+            "priceTotalBeforeTax": "600",
+            "discountPrice": "120",
+            "priceTotalBeforeTaxNew": "$1,200",
+            "editedNumberOfUser": "15",
+            "editedPriceTotalBeforeTaxNew": "$1,800"
+        },
+        "creditCard": {
+            "amex": "378282246310005",
+            "master": "5555555555554444",
+            "visa": "4005519200000004",
+            "cvvAmex": "1234",
+            "cvvOther": "123",
+            "firstName": "John",
+            "lastName": "Wick",
+            "month": "12",
+            "year": "2030",
+            "billingAddress": "14/3 Iskaton",
+            "editedBillingAdress": "Edited 14/3 Iskaton",
+            "billingCity": "Rangpur",
+            "billingState": "Colorado",
+            "billingZipCode": "1204"
+        },
+
+        "confirmationPage":{
+            "tosError":"Please agree to the terms of service"
+            
+        },
+        "signUpCompletePage":{
+            "preaparing":"Preparing your account",
+            "configuring":"Configuring your account",
+            "verifying":"Verifying your payment information",
+            "securing":"Securing your account",
+            "registering":"Registering your domain",
+            "finalizing":"Finalizing your account",
+            "thakYouMessage":"Thank you for starting your free trial!",
+            "whyTransitMessage":"Being able to securely share documents, files, and email is increasingly important in today's world.",
+            "withTransitMessage":"With Biscom Transit, you now have the ability to send messages securely and confidently, with a full audit trail.",
+            "startUsingTransitMessage":"Click the button below to start using your Transit account."
+        },
+
+        "inputType":{
+            "accountInformation": {
+                "length_105C":"vAg1q767tXceVHp8xcyJr9BIPBnouLxbEKUKKrIID0swRRTdiQx7an@3UYF2J2ykf1TD4mnjLALb0jYquU2YWRP57pSsVRG21chTz1234.com",
+                "length_205C":"asdf123wradssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasddddq21edasqqqqqqqqqqqqqqqdasdasdddddqvAg1q767tXceVHp8xcyJr9BIPBnouLxbEKUKKrIID0swRRTdiQx7an@3UYF2J2ykf1TD4mnjLALb0jYquU2YWRP57pSsVRG21chTz1234.com",
+                "email": "vAg1q767tXceVHp8xcyJr9BIPBnouLxbEKUKKrIID0swRRTdiQx7an@3UYF2J2ykf1TD4mnjLALb0jYquU2YWRP57pSsVRG21chTz.com",
+                "domainNameSpecailCharecters":"N!L@#$%",
+                "domainNameWithNumber":"1Nilavo",
+                "password": "Nil@vo2006",
+                "firstName": "Asif",
+                "lastName": "Sarja",
+                "companyName": "Nilavo",
+                "companyAddress": "4th Floor, House 1005-1007, Avenue#11, Rd Number 9, Dhaka 1216",
+                "city": "Dhaka",
+                "state": "California",
+                "zipCode": "1216",
+                "phoneNumber": "+8801923124213",
+                "domainNameOld": "d8",
+                "emptyFieldAlertMessge": "This field is required",
+                "domainNameExistAlertMessage": "This domain name is not available",
+                "passwordInvalidMessage": "invalid.password",
+                "editedEmail": "sarja@nilavo.com",
+                "editedCompanyName": "Nilavo Technologies",
+                "editedCompanyAddress": "6th Floor, House 1005-1006, Avenue#11, Rd Number 11, Dhaka 1216",
+                "editedPhoneNumber": "+880192311111",
+                "editedState": "Arkansas",
+                "editedFirstName": "William",
+                "editedLastName": "Shakespear",
+                "domainNameNew": "d64",
+                "editedDomainNameNew": "d64New"
+            },
+            "plan": {
+                "numberOfUser": "10",
+                "numberOfUserDefault": "5",
+                "numberOfUserHint": "Minimum users: 5",
+                "defaultPlan": "Annual Plan",
+                "numberOfUsersInOrderDetails": "5",
+                "pricePerUserPerMonthOrderDetail": "12",
+                "priceTotal": "720",
+                "priceTotalBeforeTax": "600",
+                "discountPrice": "120",
+                "priceTotalBeforeTaxNew": "$1,200",
+                "editedNumberOfUser": "15",
+                "editedPriceTotalBeforeTaxNew": "$1,800"
+            },
+            "creditCard": {
+                "amex": "378282246310005",
+                "master": "5555555555554444",
+                "visa": "4005519200000004",
+                "cvvAmex": "1234",
+                "cvvOther": "123",
+                "firstName": "John",
+                "lastName": "Wick",
+                "month": "12",
+                "year": "2030",
+                "billingAddress": "14/3 Iskaton",
+                "editedBillingAdress": "Edited 14/3 Iskaton",
+                "billingCity": "Rangpur",
+                "billingState": "Colorado",
+                "billingZipCode": "1204"
+            }
+        }
+    },
+
+
+    "smoke":{
+
+        "accountInformation": {
+            "email": "sarja@nilavo.com",
+            "password": "Nil@vo2006",
+            "firstName": "Asif",
+            "lastName": "Sarja",
+            "companyName": "Nilavo",
+            "companyAddress": "4th Floor, House 1005-1007, Avenue#11, Rd Number 9, Dhaka 1216",
+            "city": "Dhaka",
+            "state": "California",
+            "zipCode": "1216",
+            "phoneNumber": "+8801923124213",
+            "domainNameNew": "d48"
+        },
+        "plan": {
+            "numberOfUser": "10",
+            "planSelect":"Annual Plan"
+        },
+        "creditCard": {
+            "amex": "378282246310005",
+            "cvvAmex": "1234",
+            "firstName": "John",
+            "lastName": "Wick",
+            "month": "12",
+            "year": "2030",
+            "billingAddress": "14/3 Iskaton",
+            "billingCity": "Rangpur",
+            "billingState": "Colorado",
+            "billingZipCode": "1204"
+        },
+
+        "signUpCompletePage":{
+            "preaparing":"Preparing your account",
+            "configuring":"Configuring your account",
+            "verifying":"Verifying your payment information",
+            "securing":"Securing your account",
+            "registering":"Registering your domain",
+            "finalizing":"Finalizing your account",
+            "thakYouMessage":"Thank you for starting your free trial!",
+            "whyTransitMessage":"Being able to securely share documents, files, and email is increasingly important in today's world.",
+            "withTransitMessage":"With Biscom Transit, you now have the ability to send messages securely and confidently, with a full audit trail.",
+            "startUsingTransitMessage":"Click the button below to start using your Transit account."
+        }
+    }
+}

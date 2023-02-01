@@ -1,0 +1,36 @@
+
+   { "tenantManager":{
+
+        "username":"sarja1@nilavodev.com",
+        "password":"Nil@vo2006"
+  
+      },
+
+      "createUser":{
+
+        "user":["tuba9@nilavodev.com"] ,
+        "userPassword":"Nil@vo2006",
+        "fname":"tuba",
+        "lname":"one"
+      },
+    
+    
+    
+   "myFilesFileUpload":{
+    "attachedFileLocationMyComputer":"data/reply.txt",
+    "attachedFileLocationMyComputer1":"data/folder/reply.txt",
+    "attachedFileLocationMyFiles":"data/5MB",
+    "newFolderName":"folder1",
+    "subFolderName": "Folder2",
+    "folderDescription":"Description of folder"
+    
+   },
+
+   "versionHistory":{
+    "editVersion":"Edited Version",
+    "version1":"Version 1",
+    "version2":"Version 2"
+    
+   }
+   
+}

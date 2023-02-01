@@ -1,0 +1,42 @@
+{
+    "superAdmin":{
+        "userName":"transit-it@biscom.com",
+        "password":"TR41Nkeeps@rollN"
+      },
+  
+      "storage":{
+        "type":"Samba",
+        "path":"smb://192.168.10.66/myshare/transit-prod",
+        "capacity":"1",
+        "username":"node1",
+        "password":"Nilavo2006"
+      },
+  
+      "generalSettings":{
+        "sessionTimeOut": 30,
+        "timezone":"us.eastern"
+      },
+  
+      "branding":{
+        "faviconLocation":"data/favicon.png",
+        "logoLocation":"data/logo.jpg"
+      },
+
+      "tenant":{
+        "complex_tenant":"TICx",
+        "adminEmail":"sarja1@nilavodev.com",
+        "adminFirstName":"Sarja",
+        "adminLastName":"1",
+        "adminPassword":"Nil@vo2006",
+        "adminConfPass":"Nil@vo2006",
+        "licenseNumber":"50",
+        "sessionTimeOut":"30"
+      },
+
+  
+      "email":{
+        "host":"192.168.10.91",
+        "userName":"sakib1",
+        "password":"1234"
+      }
+}

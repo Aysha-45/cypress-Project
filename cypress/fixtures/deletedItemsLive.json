@@ -1,0 +1,26 @@
+{
+    "tenantManager":{
+
+      "username" : "sarja1.wxcydow8@mailosaur.io",
+      "password" : "Nil@vo2006"
+
+    },
+
+    "createUser": {
+
+        "user": ["rayeed3.wxcydow8@mailosaur.io"],
+        "userPassword" : "Nil@vo2006",
+        "userFirstName" : ["Rayeed3_FN"],
+        "userLastName" : ["Rayeed3_LN"]
+
+    },
+
+    
+    "myFilesFileUpload":{
+
+        "attachedFileLocationMyComputer":"data/5MB",
+        "fileName":"5MB"
+
+    }
+
+}

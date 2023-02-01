@@ -1,0 +1,46 @@
+{
+    "tenantManager":{
+
+      "username":"sarja1@nilavodev.com",
+      "password":"Nil@vo2006"
+
+    },
+
+    "createUser":{
+
+      "user":["sarja2@nilavodev.com",
+              "sarja3@nilavodev.com",
+              "sarja4@nilavodev.com",
+              "sarja5@nilavodev.com",
+              "arman1@nilavodev.com",
+               "arman2@nilavodev.com"],
+      "userPassword":"Nil@vo2006",
+      "fname":["sarja2F","sarja3F","sarja4F","sarja5F","arman1F","arman2F"],
+      "lname":["sarja2L","sarja3L","sarja4L","sarja5L","arman1L","arman2L"],
+
+      "tenantRecipientUserFirstName1": "Abir1",
+      "tenantRecipientUserLastName1": "1_two",
+      "tenantRecipientUserFirstName2": "Arman3",
+      "tenantRecipientUserLastName2": "1_three",
+      "tenantRecipientUserEmail": "abir6@nilavodev.com",
+      "tenantRecipientUserEmailTwo": "arman3@nilavodev.com",
+      "tenantRecipientUserPassword1": "Nil@vo2006"
+
+    },
+    "branding":{
+      "faviconLocation":"data/favicon.png",
+      "logoLocation":"data/logo.jpg"
+    },
+    "passwordPolicyOne":{
+      "minimumLength":"1"
+    },
+    "passwordPolicytwo":{
+      "minimumLength":"4"
+    },
+    "generalSettings":{
+      "sessionTimeOut": 30,
+      "timezone":"us.eastern"
+    }
+
+
+  }

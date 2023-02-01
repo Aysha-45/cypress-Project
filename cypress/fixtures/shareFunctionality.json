@@ -1,0 +1,70 @@
+{
+    "tenantManager":{
+
+      "username" : "sarja1@nilavodev.com",
+      "password" : "Nil@vo2006"
+
+    },
+
+    "createUser": {
+
+        "user": [
+            "rayeed6@nilavodev.com",
+            "rayeed7@nilavodev.com",
+            "rayeed8@nilavodev.com"
+        ],
+
+        "unregisteredUser" : "rayeed9@nilavodev.com",
+
+        "unregisteredUserFirstName" : "Rayeed9FN",
+
+        "unregisteredUserLastName" : "Rayeed9LN",
+
+        "userPassword" : "Nil@vo2006",
+        
+        "userFirstName" : [
+            "Rayeed6_FN",
+            "Rayeed7_FN",
+            "Rayeed8_FN"
+        ],
+        
+        "userLastName" : [
+            "Rayeed6_LN",
+            "Rayeed7_LN",
+            "Rayeed8_LN"
+        ],
+
+        "userLicense" : true
+
+    },
+
+    "shareFolderRoles" : {
+        "viewer" : "Viewer",
+        "editor" : "Editor"
+    },
+
+    "shareFolderNote" : "Hi there! Please Accept my Invitation & Join the Folder",
+
+    "subjectShareFolder" : "wants to share a folder",
+
+    "rootFolderName" : "Home",
+
+    "myFilesUser1": {
+
+        "sharedFolderName" : "Folder1 - User1",
+        "sharedFolderDesc" : "Folder1 - Shared Folder - by User1",
+        "fileUploadedInSharedFolder" : "data/5MB",
+        "fileUploadedInRootFolder" : "data/reply.txt"
+
+    }, 
+
+    "myFilesUser2" : {
+
+        "sharedSubFolderName" : "Sub-Folder1 - User2" ,
+        "sharedSubFolderDesc" : "Sub-Folder1 - under Shared Folder : Folder1 - by User2" ,
+        "fileUploadedInSharedSubFolder" : "data/5MB_subfolder" ,
+        "fileUploadedInRootFolder" : "data/readme.txt"
+    }
+
+
+}

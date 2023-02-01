@@ -1,0 +1,50 @@
+{
+    "tenantManager":{
+
+        "username":"sarja1.wxcydow8@mailosaur.io",
+        "password":"Nil@vo2006"
+  
+      },
+  
+      
+      "createContacts":{
+           "firstName":"tuba",
+           "lastName":["one","two"],
+           "email":["tuba1.wxcydow8@mailosaur.io","tuba2.wxcydow8@mailosaur.io"],
+           "mobile":"01757622614"
+      },
+
+      
+      "createUser":{
+
+        "user":["tuba1.wxcydow8@mailosaur.io"] ,
+        "userPassword":"Nil@vo2006",
+        "fname":"tuba",
+        "lname":"one"
+      },
+      "composeMessage":{
+
+        
+        "subject":"Directly sent from contact",
+        "secureNote":"Secure note directly sent from contact",
+        "message":"Message directly sent from contact",
+        "attachedFileLocationMyComputer":"data/reply.txt",
+        "subject1":"Directly sent from contact group",
+      "secureNote1":"Secure note directly sent from contact group",
+      "message1":"Message directly sent from contact group"
+      },
+
+     "createGroup" :{
+      "groupName":"My group Edited",
+      "groupNameEdit":"My group",
+      "member1":"tuba3.wxcydow8@mailosaur.io",
+      "member2":"tuba4.wxcydow8@mailosaur.io",
+      "member3":"tuba two"
+     }
+    
+
+
+  
+
+    
+}

@@ -1,0 +1,26 @@
+{
+    "tenantManager":{
+
+      "username" : "sarja1@nilavodev.com",
+      "password" : "Nil@vo2006"
+
+    },
+
+    "createUser": {
+
+        "user": ["rayeed3@nilavodev.com"],
+        "userPassword" : "Nil@vo2006",
+        "userFirstName" : ["Rayeed3_FN"],
+        "userLastName" : ["Rayeed3_LN"]
+
+    },
+
+    
+    "myFilesFileUpload":{
+
+        "attachedFileLocationMyComputer":"data/5MB",
+        "fileName":"5MB"
+
+    }
+
+}

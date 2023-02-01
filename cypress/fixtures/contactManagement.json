@@ -1,0 +1,50 @@
+{
+    "tenantManager":{
+
+        "username":"sarja1@nilavodev.com",
+        "password":"Nil@vo2006"
+  
+      },
+  
+      
+      "createContacts":{
+           "firstName":"tuba",
+           "lastName":["one","two"],
+           "email":["tuba1@nilavodev.com","tuba2@nilavodev.com"],
+           "mobile":"01757622614"
+      },
+
+      
+      "createUser":{
+
+        "user":["tuba1@nilavodev.com"] ,
+        "userPassword":"Nil@vo2006",
+        "fname":"tuba",
+        "lname":"one"
+      },
+      "composeMessage":{
+
+        
+        "subject":"Directly sent from contact",
+        "secureNote":"Secure note directly sent from contact",
+        "message":"Message directly sent from contact",
+        "attachedFileLocationMyComputer":"data/reply.txt",
+        "subject1":"Directly sent from contact group",
+      "secureNote1":"Secure note directly sent from contact group",
+      "message1":"Message directly sent from contact group"
+      },
+
+     "createGroup" :{
+      "groupNameEdit":"My group Edited",
+      "groupName":"My group",
+      "member1":"tuba3@nilavodev.com",
+      "member2":"tuba4@nilavodev.com",
+      "member3":"tuba two"
+     }
+    
+
+
+  
+
+    
+}

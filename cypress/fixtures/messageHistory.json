@@ -1,0 +1,66 @@
+{
+    "tenantManager":{
+
+      "username":"sarja1@nilavodev.com",
+      "password":"Nil@vo2006"
+
+    },
+
+    "createUser":{
+
+      "user":["tuba5@nilavodev.com",
+              "tuba6@nilavodev.com",
+              "tuba7@nilavodev.com",
+              "tuba8@nilavodev.com"
+             
+             ],
+      "userPassword":"Nil@vo2006",
+      "fname":["tuba5F","tuba6F","tuba7F","tuba8F"],
+      "lname":["tuba5L","tuba6L","tuba7L","tuba8L"]
+      
+            },
+    "composeMessage":{
+    
+        "userNameSender":"tuba5@nilavodev.com",
+        "password":"Nil@vo2006",
+        "recipient":"tuba6@nilavodev.com",
+        "recipientTwo":"tuba7@nilavodev.com",
+        "recipientThree":"tuba8@nilavodev.com",
+     
+    
+    
+        "subject":"Compose message subject 1 multiple recipient for message history test",
+        "subjectForFileAttachFromComputer":"File attached from computer",
+        "subjectForFileAttachFromMyFiles":"File attached from my files",
+        "subjectForDragAndDropFile": "File attached via drag and drop",
+        "subjectForWithoutSignIn":"No sign in required",
+        "subjectForDraftMessage":"Draft message",
+        "subjectForDraftMessageTwo":"Draft message two",
+        "secureNote":"Secure note 1 multiple recipient",
+        "message":"Message 1 multiple recipient",
+        "attachedFileLocationMyComputer":"data/readme.txt"
+     
+       
+
+        
+    
+    },
+   
+
+      "checkMessageHistory":{
+    "userActivity": "Viewed message 'Compose message subject 1 multiple recipient for message history test'.",
+    "userActivityReplyWindows":"Downloaded attachment 'Compose message subject 1_for message history test.zip\\reply.txt' (124 bytes) from message 'Compose message subject 1 multiple recipient for message history test'.",
+    "userActivityWindows": "Downloaded attachment 'Compose message subject 1_for message history test.zip\\readme.txt' (104 bytes) from message 'Compose message subject 1 multiple recipient for message history test'."
+      
+      },
+
+      "replyMessage":{
+
+      "replyAllSecureNoteRecipient":"Reply All from recipient Secure note 1",
+      "replyAllMessageRecipient":"Reply All from recipient Message 1",
+      "secureNote": " Secure note 1 multiple recipient Reply From recipient",
+      "attachedFileLocationMyComputerForReply" :"data/reply.txt"
+      }
+   
+
+  }

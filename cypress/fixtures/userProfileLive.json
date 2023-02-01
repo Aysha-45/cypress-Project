@@ -1,0 +1,39 @@
+{
+    "tenantManager":{
+
+      "username" : "sarja1.wxcydow8@mailosaur.io",
+      "password" : "Nil@vo2006"
+
+    },
+
+    "createUser": {
+
+        "user": ["rayeed4.wxcydow8@mailosaur.io" , "rayeed5.wxcydow8@mailosaur.io"],
+        "userPassword" : "Nil@vo2006",
+        "userFirstName" : ["Rayeed4_FN", "Rayeed5_FN"],
+        "userLastName" : ["Rayeed4_LN", "Rayeed5_LN"],
+        "userLicense" : [true, false]
+
+    },
+
+    "editUserProfile":{
+
+        "userFirstName" : ["Rayeed4_FN_Edited", "Rayeed5_FN_Edited"],
+        "userLastName" : ["Rayeed4_LN_Edited", "Rayeed5_LN_Edited"],
+        "userMobileNumber" : ["01688852805", "01832203946"]
+
+    },
+
+    "defaultHomePage":{
+
+        "valueInbox" : "INBOX",
+        "valueFiles" : "FILES"
+
+    },
+
+    "profilePicture":{
+        "userLicensed" : "data/ProfilePictureLicensed.jpg",
+        "userExternal" : "data/ProfilePictureExternal.jpg"
+    }
+
+}

@@ -1,0 +1,46 @@
+{
+    "tenantManager":{
+
+      "username":"sarja1.wxcydow8@mailosaur.io",
+      "password":"Nil@vo2006"
+
+    },
+
+    "createUser":{
+
+      "user":["sarja2.wxcydow8@mailosaur.io",
+              "sarja3.wxcydow8@mailosaur.io",
+              "sarja4.wxcydow8@mailosaur.io",
+              "sarja5.wxcydow8@mailosaur.io",
+              "arman1.wxcydow8@mailosaur.io",
+               "arman2.wxcydow8@mailosaur.io"],
+      "userPassword":"Nil@vo2006",
+      "fname":["sarja2F","sarja3F","sarja4F","sarja5F","arman1F","arman2F"],
+      "lname":["sarja2L","sarja3L","sarja4L","sarja5L","arman1L","arman2L"],
+
+      "tenantRecipientUserFirstName1": "Abir1",
+      "tenantRecipientUserLastName1": "1_two",
+      "tenantRecipientUserFirstName2": "Arman3",
+      "tenantRecipientUserLastName2": "1_three",
+      "tenantRecipientUserEmail": "abir6.wxcydow8@mailosaur.io",
+      "tenantRecipientUserEmailTwo": "arman3.wxcydow8@mailosaur.io",
+      "tenantRecipientUserPassword1": "Nil@vo2006"
+
+    },
+    "branding":{
+      "faviconLocation":"data/favicon.png",
+      "logoLocation":"data/logo.jpg"
+    },
+    "passwordPolicyOne":{
+      "minimumLength":"1"
+    },
+    "passwordPolicytwo":{
+      "minimumLength":"4"
+    },
+    "generalSettings":{
+      "sessionTimeOut": 30,
+      "timezone":"us.eastern"
+    }
+
+
+  }

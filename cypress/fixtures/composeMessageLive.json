@@ -1,0 +1,38 @@
+{
+    "userNameSender":"sarja1.wxcydow8@mailosaur.io",
+    "password":"Nil@vo2006",
+    "recipient":"sarja3.wxcydow8@mailosaur.io",
+    "recipientTwo":"sarja4.wxcydow8@mailosaur.io",
+    "recipientThree":"sarja5.wxcydow8@mailosaur.io",
+    "recipientFour":"porag3.wxcydow8@mailosaur.io",
+
+
+    "subject":"Compose message subject 1",
+    "subjectForFileAttachFromComputer":"File attached from computer",
+    "subjectForFileAttachFromMyFiles":"File attached from my files",
+    "subjectForDragAndDropFile": "File attached via drag and drop",
+    "subjectForWithoutSignIn":"No sign in required",
+    "subjectForDraftMessage":"Draft message",
+    "subjectForDraftMessageTwo":"Draft message two",
+    "secureNote":"Secure note 1",
+    "message":"Message 1",
+    "attachedFileLocationMyComputer":"data/readme.txt",
+    "attachedFileLocationMyFiles":"data/5MB",
+    "dragAndDropFileLocation": "../../testData/files/folder/dragAndDrop.txt",
+    "dragAndDropFolderLocation": "../../testData/files/questionImage.png",
+
+
+
+    "myFilesFileUpload":{
+
+      "attachedFileLocationMyComputer":"data/5MB",
+      "subFolderAttachedFileLocationMyComputer":"data/5MB_subfolder",
+      "file1":"../../testData/files/reply.txt",
+      "file2":"../../testData/files/version/reply.txt",
+      "file3":"../../testData/files/logo.jpg",
+      "newFolderName":"Folder1",
+      "subFolderName": "Folder2",
+      "folderDescription":"Description of folder",
+      "versionDescription":"New description of version has been added."
+    }
+}

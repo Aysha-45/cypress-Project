@@ -1,0 +1,69 @@
+{
+    "userTenantAdmin":"sarja1.wxcydow8@mailosaur.io",
+
+    "createUser":{
+
+        "user":["abir1.wxcydow8@mailosaur.io",
+                "abir2.wxcydow8@mailosaur.io",
+                "abir3.wxcydow8@mailosaur.io"],
+        "userPassword":"Nil@vo2006",
+        "fname":["abir1F","abir2F","abir3F"],
+        "lname":["abir1L","abir2L","abir3L"],
+        "tenantRecipientUserFirstName1": "Abir4F",
+        "tenantRecipientUserLastName1": "Abir4L",
+        "tenantRecipientUserEmail": "abir4.wxcydow8@mailosaur.io"
+  
+      },
+
+
+    "userNameSender":"abir1.wxcydow8@mailosaur.io",
+    "password":"Nil@vo2006",
+    "recipient":"abir2.wxcydow8@mailosaur.io",
+    "recipientTwo":"abir3.wxcydow8@mailosaur.io",
+    "recipientThreeExternal":"abir4.wxcydow8@mailosaur.io",
+    "recipientExternalSelfRegistration":"abir5.wxcydow8@mailosaur.io",
+
+
+
+
+    "subjectReply":"Reply message subject Inbox",
+    "subjectReplyMail":"Reply message subject Mail",
+    "subjectReplyAll":"Reply All message subject Inbox",
+    "subjectReplyAllMail":"Reply All message subject Mail",
+    "subjectReplyAllWithSender":"Reply All message subject With Sender",
+    "subjectForward":"Forward message subject Inbox",
+    "subjectForwardMail":"Forward message subject Mail",
+    "subjectForFileAttachFromComputer":"File attached from computer",
+    "subjectForFileAttachFromMyFiles":"File attached from my files",
+    "subjectForDragAndDropFile": "File attached via drag and drop",
+    "subjectForWithoutSignIn":"No sign in required",
+    "subjectForDraftMessage":"Draft message",
+    "subjectForDraftMessageTwo":"Draft message two",
+    "subjectReplyExternal":"Reply message subject Inbox External",
+    "subjectReplyExternalMail":"Reply message subject Mail External",
+    "subjectReplyAllExternal":"Reply All message subject Inbox External",
+    "subjectReplyExternalSelfRegistration":"Reply message External Self Registration",
+    "secureNote":"Secure note 1",
+    "message":"Message 1",
+    "attachedFileLocationMyComputer":"data/readme.txt",
+    "attachedFileLocationMyComputerReply":"data/reply.txt",
+    "attachedFileLocationMyFiles":"data/5MB",
+    "dragAndDropFileLocation": "../../testData/files/folder/dragAndDrop.txt",
+    "dragAndDropFolderLocation": "../../testData/files/questionImage.png",
+    "fileName":"readme.txt",
+
+
+
+    "myFilesFileUpload":{
+
+      "attachedFileLocationMyComputer":"data/5MB",
+      "subFolderAttachedFileLocationMyComputer":"data/5MB_subfolder",
+      "file1":"../../testData/files/reply.txt",
+      "file2":"../../testData/files/version/reply.txt",
+      "file3":"../../testData/files/logo.jpg",
+      "newFolderName":"Folder1",
+      "subFolderName": "Folder2",
+      "folderDescription":"Description of folder",
+      "versionDescription":"New description of version has been added."
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "tenantManager":{
+
+      "username" : "sarja1@nilavodev.com",
+      "password" : "Nil@vo2006"
+
+    },
+
+    "createUser": {
+
+        "user": ["rayeed1@nilavodev.com" , "rayeed2@nilavodev.com"],
+        "userPassword" : "Nil@vo2006",
+        "userFirstName" : ["Rayeed1_FN", "Rayeed2_FN"],
+        "userLastName" : ["Rayeed1_LN", "Rayeed2_LN"]
+
+    },
+
+    "composeMessageParams":{
+
+        "recipient" : ["rayeed1@nilavodev.com" , "rayeed2@nilavodev.com"],
+
+        "messagesFromUser1" : [
+            "Single Message from Rayeed1",
+            "Multiple Message 1 from Rayeed1",
+            "Multiple Message 2 from Rayeed1"
+        ],
+
+        "messagesFromUser2" : [
+            "Single Message from Rayeed2",
+            "Multiple Message 1 from Rayeed2",
+            "Multiple Message 2 from Rayeed2"
+        ],
+
+        "subjectSingleUser1" :
+            "Single Message from Rayeed1",
+
+        "subjectMultipleUser1" : [
+            "Multiple Message 1 from Rayeed1",
+            "Multiple Message 2 from Rayeed1"
+        ],
+        
+        "subjectSingleUser2" :
+            "Single Message from Rayeed2",
+
+        "subjectMultipleUser2" : [
+            "Multiple Message 1 from Rayeed2",
+            "Multiple Message 2 from Rayeed2"
+        ],
+
+        "draftSubject" : [
+            "Single Draft Message",
+            "Multiple Draft Message 1",
+            "Multiple Draft Message 2"
+
+        ],
+        "secureNote" : "This is the Secure Note",
+        "notificationMessage" : "This is the Notification Message"
+
+    }
+
+}

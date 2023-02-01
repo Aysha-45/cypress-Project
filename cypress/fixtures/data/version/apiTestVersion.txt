@@ -1,0 +1,6 @@
+*** Resource directory for the project*****
+
+****Directory contains all required files for the project
+hello this is for api testing
+
+135 bytes version 2

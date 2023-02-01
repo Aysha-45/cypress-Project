@@ -1,0 +1,23 @@
+{
+
+    "tenantManager":"sarja2@nilavodev.com",
+    "password":"Nil@vo2006",
+    "recipientUser":"sarja3@nilavodev.com",
+    
+    "createUser":{
+
+        "user":["sarja2@nilavodev.com",
+                "sarja3@nilavodev.com",
+                "sarja4@nilavodev.com",
+                "sarja5@nilavodev.com"
+        ],
+        "roles":["Licensed","Licensed","Licensed","Licensed"],
+        "fname":["s2","s3","s4","s5"],
+        "lname":["l2","l3","l4","l5"],
+        "passwd": "Nil@vo2006",
+        "test":"test"
+
+        }
+
+
+}
